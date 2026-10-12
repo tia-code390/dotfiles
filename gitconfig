@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = t.agbekodo@gmail.com
+	name = Tiphaine Agbekodo
